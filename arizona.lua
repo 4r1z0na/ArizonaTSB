@@ -447,3 +447,4 @@ local Toggle1 = Tab1:NewToggle("Watermark", true, function(value)
 end)
 -- END OF SETTINGS TAB
 local FinishedLoading = Notif:Notify("Loaded Arizona!", 4, "success")
+library:PromptDiscord("https://discord.gg/Q9mevZyP3E")
